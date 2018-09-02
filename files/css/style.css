@@ -1026,7 +1026,7 @@ footer #backtotop:before {
 
 /* portfolio wolf items hover effect */
 .portfolio-wolf-item .portfolio-caption a {
-	transition: all 0.3s ease 0.05s;
+	transition: all 0.4s ease 0.05s;
 	display: block;
 	}
 	
@@ -2138,12 +2138,6 @@ a.img-hover:hover .hover-caption {
 /*---------------------------------------------- 
 16. CUSTOM STYLE
 ------------------------------------------------*/
-
-/* 	
-	!!!!!!!!!!!!!!!!!!
-	Depending on your logo height you want to use, please adapt the values below 
-	!!!!!!!!!!!!!!!!!! 
-*/
 
 /* your logo height */
 header #logo { height: 40px;	 }
